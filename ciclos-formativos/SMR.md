@@ -6,6 +6,7 @@ Nombre | Sistema Operativo | Descripción
 :-- | :--: | :--
 [Oracle VM VirtualBox](https://www.virtualbox.org) | Multiplataforma | S. de virtualización
 [Dev-C++](http://orwelldevcpp.blogspot.com.es/) | Windows | IDE
+[Packet Tracer](https://www.netacad.com/about-networking-academy/packet-tracer/) | Multiplataforma | Simulador de redes
 
 ### Enlaces de interés
 
